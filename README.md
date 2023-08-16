@@ -4,19 +4,6 @@ DataScience Machine Learning Algorithm Projects
 ## Laptop Price Prediction Project
 This project aims to predict laptop prices based on various features using machine learning techniques. The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/muhammetvarl/laptop-price), containing information about different laptop models and their specifications.
 
-## Table of Contents
-Introduction
-Dataset
-Installation
-Usage
-Data Preprocessing
-Data Visualization
-Model Training
-Evaluation
-Future Work
-Contributing
-License
-
 ## Introduction
 In this project, we aim to build a machine learning model that predicts the prices of laptops based on their specifications. The project involves data preprocessing, exploratory data analysis, model training, and evaluation.
 
